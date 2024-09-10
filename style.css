@@ -1,0 +1,14 @@
+
+h1{
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
